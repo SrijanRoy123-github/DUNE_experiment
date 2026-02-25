@@ -15,8 +15,8 @@ Benchmark performance for both **sequential** and **random** read access, and ev
 
 ## Contents
 
-- `dune-experiment-evaluation.ipynb` — Main Jupyter Notebook (Python 3)
-- `Gsoc_evaluation.pdf` — One-page final report (compiled from LaTeX)
+- `dune-experiment-evaluation.ipynb`
+- `Gsoc_evaluation.pdf`
 
 ---
 
